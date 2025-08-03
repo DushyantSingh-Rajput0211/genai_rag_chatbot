@@ -1,0 +1,4 @@
+# This file ensures the data directory is tracked by git
+# Place your CSV files here:
+# - wyckoff_questions.csv
+# - Wyckoff_Trading_Psychology_10000_QA.csv
